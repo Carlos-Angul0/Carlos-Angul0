@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlos-Angul0
 - 🌱 I’m currently learning  Javascript y Nodejs. :boom:
-- :busts_in_silhouette: I’m looking to collaborate on  proyectos para desarrolladores Junior. 
+- :busts_in_silhouette: I’m looking to collaborate on projects for Junior developers. 
 - 📫 How to reach me  Wp +57 3187141190
 
 <!---
