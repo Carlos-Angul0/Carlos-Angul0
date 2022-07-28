@@ -1,7 +1,7 @@
 - ## Lo que vas a encontrar
 - 👋 Hola
 - 🌱 Este lugar es para mis proyectos paralelos, aprendizaje y contribuciones a la comunidad.
-- :chart_with_upwards_trend: Actualmente estoy en aprendizaje de JavaScript  :boom:
+- :chart_with_upwards_trend: Actualmente estoy en aprendizaje de JavaScript y Python :boom:
 - 📫 ¡Los comentarios siempre son bienvenidos!
 -  ## Social 
 -  [Instagram](https://www.instagram.com/codescar/)
