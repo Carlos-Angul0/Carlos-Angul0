@@ -20,5 +20,3 @@ Tenga toda la confianza en compartir su punto de vista, todas las opiniones ser√
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/Carlos-Angul0)
 [![colaboraci√≥n](https://img.shields.io/static/v1?label=&message=colaboracion&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://)
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/)
-
-[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")]
